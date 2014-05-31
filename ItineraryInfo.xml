@@ -1,0 +1,109 @@
+<itinerary>
+    <Place name="Singapore Zoo">
+        <Opening>08:30</Opening>
+        <Closing>18:00</Closing>
+        <TimeSpent>4</TimeSpent>
+        <Events>
+            <Event name='ANIMALS IN THE PINK'>
+                <FromDate>31 May 2014</FromDate>
+                <ToDate></ToDate>
+		<SpecificDay></SpecificDay>
+                <Time>11:30</Time>
+                <Location></Location>
+            </Event>
+            <Event name='SPINELESS & SUCCESSFUL'>
+                <FromDate>14 JUNE 2014</FromDate>
+                <ToDate></ToDate>
+		<SpecificDay></SpecificDay>
+                <Time>10:00</Time>
+                <Location></Location>
+            </Event>
+        </Events>
+    </Place>
+    <Place name="Underwater World">
+        <Opening>10:00</Opening>
+        <Closing>19:00</Closing>
+        <TimeSpent></TimeSpent>
+        <Events>
+            <Event>
+                <FromDate></FromDate>
+                <ToDate></ToDate>
+                <SpecificDay></SpecificDay>
+		<Time></Time>
+                <Location></Location>
+            </Event>
+        </Events>
+    </Place>
+    <Place name="Night Safari">
+        <Opening>19:30</Opening>
+        <Closing>24:00</Closing>
+        <TimeSpent>3</TimeSpent>
+        <Events>
+            <Event name='Creatures of the Night show'>
+                <FromDate></FromDate>
+                <ToDate></ToDate>
+		<SpecificDay>Friday, Saturday, public holiday eve</SpecificDay>
+                <Time>19:30, 20:30, 21:30, 22:30</Time>
+                <Location>Amphitheatre</Location>
+            </Event>
+            <Event name='Thumbuakar Performance'>
+                <FromDate></FromDate>
+                <ToDate></ToDate>
+		<SpecificDay>Friday, Saturday, public holiday eve</SpecificDay>
+                <Time>18:45, 20:00, 21:00, 22:00</Time>
+                <Location>Entrance Plaza</Location>
+            </Event>
+        </Events>
+    </Place>
+    <Place name="Jurong Bird Park">
+        <Opening>08:30</Opening>
+        <Closing>18:00</Closing>
+        <TimeSpent>5</TimeSpent>
+        <Events>
+            <Event name='Be a Junior Birdwatcher'>
+                <FromDate>07 June 2014</FromDate>
+                <ToDate>29 June 2014</ToDate>
+		<SpecificDay>Weekends only</SpecificDay>
+                <Time></Time>
+                <Location></Location>
+            </Event>            
+        </Events>
+    </Place>
+    <Place name="Gardens by the Bay">
+        <Opening>05:00</Opening>
+        <Closing>14:00</Closing>
+        <TimeSpent>4</TimeSpent>
+        <Events>
+            <Event name='Tulipmania Photography Exhibition and Competition'>
+                <FromDate>28 Mar 2014</FromDate>
+                <ToDate>29 June 2014</ToDate>
+		<SpecificDay></SpecificDay>
+                <Time>05:00</Time>
+                <Location>The Collanade</Location>
+            </Event>
+            <Event name='French Faire Floral Display'>
+                <FromDate>12 May 2014</FromDate>
+                <ToDate>22 Jun 2014</ToDate>
+		<SpecificDay></SpecificDay>
+                <Time>09:00</Time>
+                <Location>Flower Dome</Location>
+            </Event>
+            <Event name='Garden Trail:A French Spring'>
+                <FromDate>12 May 2014</FromDate>
+                <ToDate>22 Jun 2014</ToDate>
+		<SpecificDay></SpecificDay>
+                <Time>09:00</Time>
+                <Location>Flower Dome</Location>
+            </Event>
+            <Event name='Gaia Trail:Are You Ok, Earth?'>
+                <FromDate>30 May 2014</FromDate>
+                <ToDate>08 Jun 2014</ToDate>
+		<SpecificDay></SpecificDay>
+                <Time>09:00</Time>
+                <Location>OutDoor Gardens</Location>
+            </Event>
+        </Events>
+    </Place>
+
+    
+</itinerary>
